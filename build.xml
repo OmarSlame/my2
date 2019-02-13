@@ -1,7 +1,7 @@
 <project default ="compile">
 
 
-<property name ="src.java.dir" location ="./src/teset case"/>
+<property name ="src.java.dir" location ="./src"/>
 <property name ="src.test.dir" location ="./src/main/test"/>
 <property name ="result.dir" location ="./target"/>
 
