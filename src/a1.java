@@ -1,3 +1,4 @@
+import javax.swing.JOptionPane;
 
 public class a1 {
 
@@ -8,17 +9,9 @@ public class a1 {
 		
 		
 		
-		
+		JOptionPane.showMessageDialog(null, "dcdcdfvcfdvfvfv");
 	}
 	
-	public static void main0() {
-		// TODO Auto-generated method stub//5555555555552
-		//8522
-		//;;;;;;;;;;;;;;;;;;;;;;;;;k;;;;;;;;;;;;
-		//666666666
-		//
-		
-		
-	}
+	
 
 }
