@@ -1,15 +1,18 @@
 import javax.swing.JOptionPane;
 
+import org.junit.runner.JUnitCore;
+import org.junit.runner.notification.Failure;
+import org.junit.runners.AllTests;
+
+import com.sun.net.httpserver.Authenticator.Result;
+
 public class a1 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub//5555555555552
-		//8522
-		//;;;;;;;;;;;;;;;;;;;;;;;;k;;;;;;;;;;;;
+		
+		JOptionPane.showMessageDialog(null, "fvlkfmvfv");
 		
 		
-		
-		JOptionPane.showMessageDialog(null, "dcdcdfvcfdvfvfv");
 	}
 	
 	
