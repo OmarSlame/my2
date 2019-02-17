@@ -43,6 +43,11 @@
     </path>
     
         
+        
+        
+        
+        
+        
     <target name="compile-testcases" depends="compile">
         <mkdir dir="${result.testclasses.dir}"/>
         <javac srcdir="${src.test.dir}"  destdir="${result.testclasses.dir}" debug="true" includeantruntime="false">
@@ -53,6 +58,14 @@
             </classpath>
         </javac>        
     </target>
+    
+    
+    
+    
+    
+    
+    
+    
     
     <target name="test" depends="compile-testcases">
         <!--fork : each test will run in its own JVM (to seperate test cases)-->
