@@ -1,6 +1,6 @@
 package testCases;
 
-import static org.junit.Assert.assertTrue;
+//import static org.junit.Assert.assertTrue;
 
 //import static org.junit.jupiter.api.Assertions.*;
 
@@ -10,7 +10,7 @@ class addTest {
 
 	@Test
 	void test() {
-assertTrue(true);
+//assertTrue(true);
 	}
 
 }
