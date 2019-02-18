@@ -1,7 +1,7 @@
 <project default ="compile">
 
 
-<property name ="src.test.dir" location ="./src/testCases"/> 
+<property name ="src.test.dir" location ="./src"/> 
 <property name ="result.testClasses.dir" location ="./MyResultTestclass"/> 
 
 <property name ="src.java.dir" location ="./src"/>     <!--you should edit this line -->
