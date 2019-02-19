@@ -1,6 +1,10 @@
-import static org.junit.jupiter.api.Assertions.*;
+package test;
+import static org.junit.Assert.assertTrue;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
+
+import code.a1;
+import code.book;
 
 class a1Test {
 

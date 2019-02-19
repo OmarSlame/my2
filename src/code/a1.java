@@ -1,3 +1,4 @@
+package code;
 import java.util.LinkedList;
 
 import javax.swing.JOptionPane;
@@ -10,7 +11,7 @@ public class a1 {
 	public static LinkedList<book> books;
 	
 	
-	a1()
+	public a1()
 	{
 		product_count=0;
 		total_value_of_cart=0;
